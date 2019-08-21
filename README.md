@@ -5,3 +5,6 @@
 
 [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)
 
+**课程章节**
+
+[0:生物医学背景的学生为什么和如何学习机器学习？(草稿在建中）](0_why_and_how.pptx)

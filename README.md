@@ -6,7 +6,9 @@
 [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)
 
 **课程章节**
-第一课：
-[理论: 生物医学背景的学生为什么和如何学习机器学习？](0_why_and_how.pptx)
 
-[实践: R: A self-learn tutorial](https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/BestFirstRTutorial.pdf)
+第一课：
+
+  [理论: 生物医学背景的学生为什么和如何学习机器学习？](0_why_and_how.pptx)
+
+  [实践: R: A self-learn tutorial](https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/BestFirstRTutorial.pdf)

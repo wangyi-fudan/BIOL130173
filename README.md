@@ -5,6 +5,8 @@
 
 [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)
 
+[An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
+
 **课程章节**
 
 第一课：

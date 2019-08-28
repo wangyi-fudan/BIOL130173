@@ -7,4 +7,6 @@
 
 **课程章节**
 
-[0: 生物医学背景的学生为什么和如何学习机器学习？(草稿在建中）](0_why_and_how.pptx)
+[Theory0: 生物医学背景的学生为什么和如何学习机器学习？](0_why_and_how.pptx)
+
+[Practice0: R: A self-learn tutorial[https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/BestFirstRTutorial.pdf]

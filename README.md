@@ -17,7 +17,7 @@
 
 第一课：
 
-  [理论：线性代数温故知新（建设中）](1_linear_algebra.pptx)
+  [理论：线性代数温故知新](1_linear_algebra.pptx)
   
   [实践：R语言操作线性代数](1_linear_algebra.r)
   

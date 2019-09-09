@@ -12,31 +12,50 @@
 **课程章节**
 
 第零课(王一，陆晨琪)：
-
-  [生物医学背景的学生为什么和如何学习机器学习？](0_why_and_how.pptx) 
+[生物医学背景的学生为什么和如何学习机器学习？](0_why_and_how.pptx) 
 
 第一课(王一，陆晨琪)：
-
-  [线性代数](1_linear_algebra.pptx)
+[线性代数](1_linear_algebra.pptx)
   
 第二课(姚音，陆晨琪)：
-  [概率论数理统计1](2_statistics1.pptx)
+[概率论数理统计1](2_statistics1.pptx)
 
 第三课(姚音，陆晨琪)：
-  [概率论数理统计2](3_statistics2.pptx)
+[概率论数理统计2](3_statistics2.pptx)
   
 第四课(王一，陆晨琪)
-  [线性回归](4_linear_regression.pptx)
+[线性回归](4_linear_regression.pptx)
   
 第五课(王一，陆晨琪)
-  [逻辑回归](5_logistic_regression.pptx)
+[逻辑回归](5_logistic_regression.pptx)
 
 第六课(王一，陆晨琪)
-  [k近邻法](6_kNN.pptx)
+[k近邻法](6_kNN.pptx)
 
 第七课(王一，陆晨琪)
-  [基展开](7_basis_expansion.pptx)
+[基展开核平滑](7_basis_expansion&kernel_smoothing.pptx)
   
 第八课(王一，陆晨琪)
-  [核平滑](8_kernel_smoothing.pptx)
-  
+[模型评估与选择](8_model_selection.pptx)
+
+第九课(姚音，陆晨琪)
+[随机森林](9_random_forest.pptx)
+
+第十课(王一，陆晨琪)
+[提升树](10_boosting_tree.pptx)
+
+第十一课(黄强，王一)
+[神经网络](11_neural_network.pptx)
+
+第十二课(黄强，王一)
+[深度学习1](12_deep_learning.pptx)
+
+第十三课(黄强，王一)
+[深度学习2](13_deep_learning.pptx)
+
+第十四课(王一，陆晨琪)
+[无监督学习](14_unsupervised_learning.pptx)
+
+第十五课(王一，陆晨琪)
+[正则化理论](15_regularization.pptx)
+

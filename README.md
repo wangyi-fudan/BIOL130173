@@ -9,7 +9,7 @@
 
 [R: A self-learn tutorial](https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/BestFirstRTutorial.pdf)
 
-[小王医生网站](www.drwang.top) 
+[小王医生网站](http://www.drwang.top) 
 
 [小一机器人医生:fudan](http://58.87.113.187) 
 

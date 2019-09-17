@@ -21,6 +21,7 @@
 
 第一课(王一)：
 [线性代数](1_linear_algebra.pptx)
+[Linear algebra in R](LinearAlgebraR-Handout.pdf)
   
 第二课(姚音，王一)：
 [概率论数理统计1](2_statistics1.pptx)

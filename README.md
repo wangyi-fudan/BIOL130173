@@ -24,7 +24,8 @@
 [Linear algebra in R](LinearAlgebraR-Handout.pdf)
   
 第二课(姚音，王一)：
-[概率论数理统计1](2_statistics1.pptx)
+[概率和分布](Lecture2.pptx)
+[Introduction to statistical thinking](IntroStat.pdf)
 
 第三课(姚音，王一)：
 [概率论数理统计2](3_statistics2.pptx)

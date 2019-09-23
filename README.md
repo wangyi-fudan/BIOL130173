@@ -25,7 +25,7 @@
   
 第二课(姚音，王一)：
 [概率和分布](Lecture2.pptx)
-[Introduction to statistical thinking](IntroStat.pdf)
+[Introduction to statistical thinking p1-p60](IntroStat.pdf)
 
 第三课(姚音，王一)：
 [概率论数理统计2](3_statistics2.pptx)

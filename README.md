@@ -38,7 +38,7 @@
 [逻辑回归](5_logistic_regression.pptx)
 
 第六课(王一)
-[k近邻法](6_kNN.pptx)
+[k近邻法](6_k近邻法.pptx)
 
 第七课(王一)
 [基展开核平滑](7_basis_expansion&kernel_smoothing.pptx)

@@ -23,13 +23,13 @@
 [线性代数](1_linear_algebra.pptx)
 [Linear algebra in R](LinearAlgebraR-Handout.pdf)
   
-第二课(姚音，王一)：
+第二课(姚音，陆晨琪)：
 [概率和分布](Lecture2.pptx)
 [Introduction to statistical thinking p1-p60](IntroStat.pdf)
 [iris数据集](iris.data)
 
-第三课(姚音，王一)：
-[概率论数理统计2](3_statistics2.pptx)
+第三课(姚音，陆晨琪)：
+[概率论数理统计2](Lecture3.pptx.pptx)
   
 第四课(陆晨琪)
 [线性回归](4_linear_regression.pptx)

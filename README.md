@@ -41,7 +41,7 @@
 [k近邻法](6_k近邻法.pptx)
 
 第七课(王一)
-[基展开核平滑](7_basis_expansion&kernel_smoothing.pptx)
+[基展开核平滑](7_basis_kernel.pptx)
   
 第八课(王一)
 [模型评估与选择](8_model_selection.pptx)

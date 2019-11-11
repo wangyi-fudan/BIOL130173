@@ -1,0 +1,10 @@
+data=read.csv("PRSA_data_2010.1.1-2014.12.31.csv",header=T);
+x=na.omit(data)$No/24/365.25*2*pi;
+y=na.omit(data)$pm2.5;
+plot(x,y,pch=20);
+z=cbind(sin(x),cos(x),sin(4*x),cos(4*x),sin(12*x),cos(12*x),sin(52.2*x),cos(52.2*x));
+model=lm(y~z);
+summary(model);
+yhat=predict(model,as.data.frame(z));
+plot(x,y,pch=20);
+points(x,yhat,col=2,type='l');

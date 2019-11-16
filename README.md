@@ -46,7 +46,7 @@
 第八课(王一)
 [模型评估与选择](8_model_selection.pptx)
 
-第九课(姚音，王一)
+第九课(王一)
 [随机森林](9_random_forest.pptx)
 
 第十课(王一)

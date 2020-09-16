@@ -17,10 +17,10 @@
 
 第零课(姚音，黄强，陆晨琪，王一)：
 [生物医学背景的学生为什么和如何学习机器学习？](0_why_and_how.pptx) 
-[R语言入门](R语言入门.ppt) 
-
-第一课(王一)：
 [线性代数](1_linear_algebra.pptx)
+
+第一课(陆晨琪)：
+[R语言入门](R语言入门.ppt) 
 [Linear algebra in R](LinearAlgebraR-Handout.pdf)
   
 第二课(姚音，陆晨琪)：

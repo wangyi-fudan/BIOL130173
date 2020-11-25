@@ -1,4 +1,11 @@
 # BIOL130173 《生命科学中的机器学习》
+
+**考试数据**
+https://pan.baidu.com/s/1Jv34B8Hci_shI49Y4keOug
+
+提取码：x3q2 
+
+
 **参考教材：**
 
 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
